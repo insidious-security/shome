@@ -1,5 +1,4 @@
 #Author:sidious
-import dns
 import sys
 import dns.resolver
 from shodan import Shodan
